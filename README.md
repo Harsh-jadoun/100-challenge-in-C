@@ -20,6 +20,25 @@ In this project I take 100 programs from ChatGpt and i take a challenge to solve
 
 10. Find size of different data types
 
-11. [To be added...]
+11.Convert temperature (Celsius to Fahrenheit)
 
+12.Convert temperature (Fahrenheit to Celsius)
+
+13. Calculate area of circle
+
+14. Calculate area of rectangle
+
+15. Calculate area of triangle
+
+16. Calculate perimeter of square
+
+17. Calculate compound interest
+
+18. Calculate simple interest
+
+19. Convert days into years, weeks, and days
+
+20. Calculate power of a number using pow() function
+
+21. [To be added.....]
 
