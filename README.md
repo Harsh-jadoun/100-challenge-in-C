@@ -40,5 +40,25 @@ In this project I take 100 programs from ChatGpt and i take a challenge to solve
 
 20. Calculate power of a number using pow() function
 
-21. [To be added.....]
+21. Check even or odd
+
+22. Check positive, negative, or zero
+
+23. Find maximum between two numbers
+
+24. Find maximum between three numbers
+
+25. Check leap year
+
+26. Display a number in words (0-9)
+
+27. Calculate grade from marks
+
+28. Print multiplication table
+
+29. Sum of first N natural numbers
+
+30. Factorial of a number
+    
+31. [To be added....]
 
