@@ -60,5 +60,24 @@ In this project I take 100 programs from ChatGpt and i take a challenge to solve
 
 30. Factorial of a number
     
-31. [To be added....]
+31. Reverse a number
 
+32. Palindrome number
+
+33. Armstrong number
+
+34. Prime number check
+
+35. Print all prime numbers between two intervals
+
+36. Print Fibonacci series
+
+37. Count digits in a number
+
+38. Sum of digits
+
+39. Product of digits
+
+40. Find GCD of two numbers
+
+41.[TO BE ADDED.....]
