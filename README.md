@@ -80,4 +80,24 @@ In this project I take 100 programs from ChatGpt and i take a challenge to solve
 
 40. Find GCD of two numbers
 
-41.[TO BE ADDED.....]
+41. Print star pattern (pyramid)
+
+42. Print inverted pyramid
+
+43. Print half pyramid using numbers
+
+44. Floyd’s triangle
+
+45. Pascal’s triangle
+
+46. Print diamond pattern
+
+47. Print number pyramid
+
+48. Display multiplication table up to N
+
+49.Find LCM of two numbers
+
+50. Display factors of a number
+
+51. [TO be added......]
