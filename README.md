@@ -1,6 +1,7 @@
 ## 100-challenge-in-C
-In this project I take 100 programs from ChatGpt and i take a challenge to solve all of them the list of program is given below: 
-1. Print “Hello, World!”
+### In this project I take 100 programs from ChatGpt and i take a challenge to solve all of them the list of program is given below: 
+
+1. Print “Hello, World!” 
 
 2. Add two numbers
 
