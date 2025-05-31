@@ -105,7 +105,7 @@
 
 52. Count vowels and consonants
 
-Convert lowercase to uppercase
+53. Convert lowercase to uppercase
 
 Convert uppercase to lowercase
 
