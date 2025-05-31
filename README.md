@@ -103,7 +103,7 @@
 
 51. Print alphabets from A to Z
 
-Count vowels and consonants
+52. Count vowels and consonants
 
 Convert lowercase to uppercase
 
