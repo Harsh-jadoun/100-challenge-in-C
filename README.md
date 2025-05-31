@@ -101,4 +101,11 @@
 
 50. Display factors of a number
 
-51. [TO be added......]
+51. Print alphabets from A to Z
+
+Count vowels and consonants
+
+Convert lowercase to uppercase
+
+Convert uppercase to lowercase
+
