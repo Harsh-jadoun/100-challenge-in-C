@@ -8,6 +8,6 @@ int main(){
     a = a+b; 
     b= a-b;
     a= a-b;
-   printf("\nAfter swapping a=%d, b=%d",a,b);
+   printf("\nAfter swapping a=%d, b=%d",a,b); // printing variables after swapping
     return 0;
 }
