@@ -2,8 +2,8 @@
 int main(){
     int a,b;
     printf("Give two numbers: ");
-    scanf("%d %d",&a,&b);
-    printf("\nBefore swapping a=%d, b=%d",a,b);
+    scanf("%d %d",&a,&b); 
+    printf("\nBefore swapping a=%d, b=%d",a,b); //Before swapping
     a = a+b;
     b= a-b;
     a= a-b;
