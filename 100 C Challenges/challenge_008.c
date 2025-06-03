@@ -4,7 +4,8 @@ int main(){
     printf("Give two numbers: ");
     scanf("%d %d",&a,&b); 
     printf("\nBefore swapping a=%d, b=%d",a,b); //Before swapping
-    a = a+b;
+   //swapping variables without using third variable
+    a = a+b; 
     b= a-b;
     a= a-b;
    printf("\nAfter swapping a=%d, b=%d",a,b);
